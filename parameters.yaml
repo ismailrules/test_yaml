@@ -1,1 +1,2 @@
-in: !!java.io.FileOutputStream [/tmp/pwned]
+in: path
+example: !!java.io.FileOutputStream [/tmp/pwned]
