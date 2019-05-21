@@ -1,1 +1,1 @@
-$ref: "file:///etc/passwd"
+$ref: !!java.io.FileOutputStream [/glide/nodes/empiaydemircmdb001_16004/logs/script_created_file]
