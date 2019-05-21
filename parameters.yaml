@@ -1,0 +1,8 @@
+parameters:
+    params:
+      - name: foo
+        schema:
+          type: string
+      - name: bar
+        schema:
+          type: integer
