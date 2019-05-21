@@ -1,8 +1,2 @@
 parameters:
-    params:
-      - name: foo
-        schema:
-          type: string
-      - name: bar
-        schema:
-          type: integer
+    $ref: "file:///etc/passwd"
