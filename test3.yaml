@@ -1,0 +1,4 @@
+in: path
+example: !!java.io.FileOutputStream [/tmp/pwned]
+callbacks:
+  x-cool: []
