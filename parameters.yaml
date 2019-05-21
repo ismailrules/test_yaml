@@ -1,2 +1,1 @@
-parameters:
-    $ref: "file:///etc/passwd"
+$ref: "file:///etc/passwd"
