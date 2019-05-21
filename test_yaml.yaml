@@ -1,0 +1,10 @@
+openapi: 3.0.0
+info:
+  title: yaml API
+  description: Optional multiline or single-line description in [CommonMark](http://commonmark.org/help/) or HTML.
+  version: 0.1.9
+paths:
+ /users:
+  get:
+   parameters:
+     - $ref: "https://raw.githubusercontent.com/ismailrules/test_yaml/master/parameters.yaml"	
